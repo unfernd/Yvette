@@ -1,5 +1,5 @@
 services:
-  yvette6:
+  yvette7:
     build: .
     shm_size: 2.6gb
     ports:
