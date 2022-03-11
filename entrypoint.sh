@@ -5,8 +5,8 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=ba547894-85b3-40e9-ad15-f847dbf9609c
-WSPATH=/fpn
+UUID=7cbad355-31b7-4d63-96ad-a761013a49b4
+WSPATH=/fuv
 PORT=443
 
 # Write V2Ray configuration
